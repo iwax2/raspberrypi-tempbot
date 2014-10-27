@@ -9,7 +9,9 @@ Raspberry PiとSC162C(aitendoで購入した16x2 LCDモジュール)を使って
 最終的には不快指数も計算してtwitterでつぶやいています。
 https://twitter.com/iwalab_tempbot
 
-Raspberry PiでUSBRHを使うためにUSBRH on Linux(http://www.dd.iij4u.or.jp/~briareos/soft/usbrh.html)を使わせていただきました。
+Raspberry PiでUSBRHを使うためにUSBRH on Linuxを使わせていただきました。
+http://www.dd.iij4u.or.jp/~briareos/soft/usbrh.html
 
 Twitter投稿を実現するためにPython+OAuthを使っていますが、
-http://qiita.com/yubais/items/dd143fe608ccad8e9f85　を参考にさせていただきました。
+http://qiita.com/yubais/items/dd143fe608ccad8e9f85
+を参考にさせていただきました。
